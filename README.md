@@ -56,9 +56,9 @@
 
 ## 📫 Contact
 
-- 💼 GitLab / GitHub: **your-username**
-- 🔗 LinkedIn: **your-linkedin-url**
-- ✉️ Email: **your-email@example.com**
+- 💼 GitLab / GitHub: **NicolasValenzuela-sudo**
+- 🔗 LinkedIn: **Proximo a completar**
+- ✉️ Email: **Proximo a correr**
 
 ---
 
